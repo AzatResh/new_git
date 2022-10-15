@@ -1,0 +1,39 @@
+header {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    position: relative;
+    border: 5px black solid;
+    min-width: 100vw;
+    height: auto;
+    background: rgb(69, 15, 139);
+}
+
+.hr {
+    padding: 0;
+    margin-left: 0px;
+    float: right;
+}
+
+.hr li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.hr li a {
+    color: rgb(255, 0, 0);
+}
+
+.left_panel {
+    width: 30px;
+}

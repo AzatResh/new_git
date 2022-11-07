@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    background: rgb(87, 87, 255);
+}
+
+#field {
+    width: auto;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    background-color: azure;
+    transform: translate(-50%, -50%);
+}
+
+#field td {
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    border: 1px black solid;
+    font-weight: bold;
+}
